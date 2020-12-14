@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/javascript-dom-create-dynamic-interactive-web-pages-video/9781838825713)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # JavaScript-DOM---Create-Dynamic-Interactive-Web-Pages
 Code repository for JavaScript DOM - Create Dynamic Interactive Web Pages, Published by Packt
 # JavaScript DOM - Create Dynamic Interactive Web Pages
